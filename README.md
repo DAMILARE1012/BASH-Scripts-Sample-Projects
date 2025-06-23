@@ -2,15 +2,10 @@
 <hr> 
 
 # BASH Scripts For Everyone
-
-## A collection of BASH scripts that might benefit all *nix users
 <br>
 
-#### Some scripts accept a -h flag and display a usage guide, for others there is a description in the script itself. The scripts that accept a -h flag for now are: betterfeh aur ezdd RSS PyVirtEnv
-<br> 
-
-* Project 1 - [Alarm-Clock]([https://github.com/DAMILARE1012/BASH-Scripts-Sample-Projects/tree/main/Project%201%20-%20Alarm-Clock])
-  - 
+* Project 1 - [Alarm-Clock](https://github.com/DAMILARE1012/BASH-Scripts-Sample-Projects/tree/main/Project%201%20-%20Alarm-Clock)
+  - This project is a simple, customizable alarm clock implemented as a Bash script. It allows users to set a timer for a specified duration (such as "8h" for 8 hours or "20m" for 20 minutes), after which a sequence of alarm sounds will play to wake the user up. The script uses ASCII art to display wake-up messages and logs all alarm events (start, each sound played, and finish) to a log file for record-keeping.
 * [File Operations](https://github.com/wolandark/BASH_Scripts_For_Everyone/tree/main/FILE_OPERATIONS) 
 	- [extract](https://github.com/wolandark/BASH_Scripts_For_Everyone/blob/main/FILE_OPERATIONS/extract)
 	- [file_deleter_by_extension.sh](https://github.com/wolandark/BASH_Scripts_For_Everyone/blob/main/FILE_OPERATIONS/file_deleter_by_extension.sh)
