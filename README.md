@@ -1,5 +1,4 @@
-# This README is behind from the commits
-
+# Credit - This repository was initially forked from wolandark/BASH_Scripts_For_Everyone
 <hr> 
 
 # BASH Scripts For Everyone
@@ -10,8 +9,8 @@
 #### Some scripts accept a -h flag and display a usage guide, for others there is a description in the script itself. The scripts that accept a -h flag for now are: betterfeh aur ezdd RSS PyVirtEnv
 <br> 
 
-* [Alarm-Clock](https://github.com/wolandark/BASH_Scripts_For_Everyone/tree/main/Alarm-Clock)
-	- [Alarm.sh](https://github.com/wolandark/BASH_Scripts_For_Everyone/blob/main/Alarm-Clock/Alarm.sh)
+* Project 1 - [Alarm-Clock](https://github.com/wolandark/BASH_Scripts_For_Everyone/tree/main/Alarm-Clock)
+  - 
 * [File Operations](https://github.com/wolandark/BASH_Scripts_For_Everyone/tree/main/FILE_OPERATIONS) 
 	- [extract](https://github.com/wolandark/BASH_Scripts_For_Everyone/blob/main/FILE_OPERATIONS/extract)
 	- [file_deleter_by_extension.sh](https://github.com/wolandark/BASH_Scripts_For_Everyone/blob/main/FILE_OPERATIONS/file_deleter_by_extension.sh)
