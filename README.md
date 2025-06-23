@@ -9,7 +9,7 @@
 #### Some scripts accept a -h flag and display a usage guide, for others there is a description in the script itself. The scripts that accept a -h flag for now are: betterfeh aur ezdd RSS PyVirtEnv
 <br> 
 
-* Project 1 - [Alarm-Clock](https://github.com/wolandark/BASH_Scripts_For_Everyone/tree/main/Alarm-Clock)
+* Project 1 - [Alarm-Clock]([https://github.com/wolandark/BASH_Scripts_For_Everyone/tree/main/Alarm-Clock](https://github.com/DAMILARE1012/BASH-Scripts-Sample-Projects/tree/main/Project%201%20-%20Alarm-Clock))
   - 
 * [File Operations](https://github.com/wolandark/BASH_Scripts_For_Everyone/tree/main/FILE_OPERATIONS) 
 	- [extract](https://github.com/wolandark/BASH_Scripts_For_Everyone/blob/main/FILE_OPERATIONS/extract)
