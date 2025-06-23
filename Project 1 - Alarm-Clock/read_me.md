@@ -16,10 +16,12 @@ This project is a simple, customizable alarm clock implemented as a Bash script.
     - Works on any system with Bash, mpv, and figlet installed (Linux, macOS, Windows with WSL or Git Bash).
 <hr>
 # What You Can Achieve With This Project:
+
   - Automate your wake-up routine with a script you can run from the terminal.
   - Customize your alarm experience by using your favorite songs or sounds.
   - Track your sleep and alarm history via the generated log file.
   - Learn and practice Bash scripting with real-world use of command-line tools and scripting logic.
 <hr>
 # In summary:
+
   -This project provides a fun, practical way to set alarms from the command line, with customizable sounds, visual notifications, and event logging—all powered by Bash scripting!
